@@ -1,0 +1,6 @@
+delivery_id,service_code,units,delivered_on,source_file,source_quote
+D401,strategy_session,2,2026-08-03,work_log.txt,Completed two strategy sessions on August 3.
+D402,strategy_session,1,2026-08-12,work_log.txt,Completed one additional strategy session on August 12.
+D403,asset_pack,1,2026-08-05,work_log.txt,Delivered one asset pack on August 5.
+D404,asset_pack,2,2026-08-14,work_log.txt,Delivered two additional asset packs on August 14.
+D405,asset_pack,1,2026-08-17,work_log.txt,Delivered one additional asset pack on August 17.

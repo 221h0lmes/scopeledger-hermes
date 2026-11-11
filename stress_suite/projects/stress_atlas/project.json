@@ -1,0 +1,41 @@
+{
+  "project_id": "stress_atlas",
+  "client": "Atlas Growth Agency (fictional)",
+  "currency": "USD",
+  "agreement_source": {
+    "file": "agreement.txt",
+    "quote": "Four landing pages are included. Additional landing pages: USD 250.00 each."
+  },
+  "services": [
+    {
+      "code": "landing_page",
+      "label": "Landing page",
+      "included_units": 4,
+      "extra_unit_price_minor": 25000
+    },
+    {
+      "code": "email_sequence",
+      "label": "Email sequence",
+      "included_units": 2,
+      "extra_unit_price_minor": 18000
+    },
+    {
+      "code": "analytics_report",
+      "label": "Analytics report",
+      "included_units": 1,
+      "extra_unit_price_minor": 22000
+    },
+    {
+      "code": "ad_creative",
+      "label": "Ad creative",
+      "included_units": 3,
+      "extra_unit_price_minor": 9500
+    },
+    {
+      "code": "revision_round",
+      "label": "Revision round",
+      "included_units": 2,
+      "extra_unit_price_minor": 12000
+    }
+  ]
+}

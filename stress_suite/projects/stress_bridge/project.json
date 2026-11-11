@@ -1,0 +1,23 @@
+{
+  "project_id": "stress_bridge",
+  "client": "Bridge PR (fictional)",
+  "currency": "USD",
+  "agreement_source": {
+    "file": "agreement.txt",
+    "quote": "One newsletters are included. Additional newsletters: USD 125.00 each."
+  },
+  "services": [
+    {
+      "code": "newsletter",
+      "label": "Newsletter",
+      "included_units": 1,
+      "extra_unit_price_minor": 12500
+    },
+    {
+      "code": "article",
+      "label": "Article",
+      "included_units": 2,
+      "extra_unit_price_minor": 20000
+    }
+  ]
+}

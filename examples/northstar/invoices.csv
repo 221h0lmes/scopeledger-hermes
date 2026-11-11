@@ -1,0 +1,3 @@
+invoice_line_id,delivery_id,invoiced_units,source_file,source_quote
+I001,D002,1,invoices.txt,Invoice INV-203 billed one additional landing page at USD 300.
+I002,D005,2,invoices.txt,Invoice INV-205 billed two extra banners at USD 90 each.

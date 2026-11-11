@@ -1,0 +1,4 @@
+approval_id,delivery_id,status,approved_units,source_file,source_quote
+A402,D402,APPROVED,1,client_messages.txt,I approve one additional strategy session at PHP 1200 each.
+A404,D404,APPROVED,2,client_messages.txt,I approve two additional asset packs at PHP 350 each.
+A405,D405,PENDING,0,client_messages.txt,Awaiting approval for the extra asset pack.

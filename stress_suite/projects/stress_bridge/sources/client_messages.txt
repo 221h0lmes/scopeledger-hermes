@@ -1,0 +1,4 @@
+Fictional agency client_messages.txt source notes
+D202 | I approve two additional newsletters at USD 125 each.
+D204 | I approve one additional article at USD 200 each.
+D205 | Approval pending for the extra article.

@@ -1,0 +1,6 @@
+delivery_id,service_code,units,delivered_on,source_file,source_quote
+D001,landing_page,5,2026-10-20,work_log.txt,Delivered five original landing pages on October 20.
+D002,landing_page,2,2026-11-02,work_log.txt,Delivered two additional landing pages on November 2.
+D003,revision_round,2,2026-10-25,work_log.txt,Completed two included revision rounds on October 25.
+D004,revision_round,1,2026-11-03,work_log.txt,Completed one third revision round on November 3.
+D005,banner,2,2026-11-04,work_log.txt,Completed two banners on November 4.

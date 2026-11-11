@@ -1,0 +1,14 @@
+{
+  "project_id": "northstar",
+  "client": "Northstar Studio (fictional)",
+  "currency": "USD",
+  "agreement_source": {
+    "file": "agreement.txt",
+    "quote": "Five landing pages are included. Additional landing pages: USD 300 each."
+  },
+  "services": [
+    {"code": "landing_page", "label": "Landing page", "included_units": 5, "extra_unit_price_minor": 30000},
+    {"code": "revision_round", "label": "Revision round", "included_units": 2, "extra_unit_price_minor": 15000},
+    {"code": "banner", "label": "Web banner", "included_units": 1, "extra_unit_price_minor": 9000}
+  ]
+}

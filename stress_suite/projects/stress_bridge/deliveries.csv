@@ -1,0 +1,6 @@
+delivery_id,service_code,units,delivered_on,source_file,source_quote
+D201,newsletter,1,2026-08-05,work_log.txt,Delivered one newsletter on August 5.
+D202,newsletter,2,2026-08-17,work_log.txt,Delivered two additional newsletters on August 17.
+D203,article,2,2026-08-06,work_log.txt,Delivered two articles on August 6.
+D204,article,1,2026-08-20,work_log.txt,Delivered one additional article on August 20.
+D205,article,1,2026-08-21,work_log.txt,Delivered one additional article on August 21.

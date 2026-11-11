@@ -1,0 +1,4 @@
+approval_id,delivery_id,status,approved_units,source_file,source_quote
+A001,D002,APPROVED,2,client_messages.txt,I approve the two additional landing pages at USD 300 each.
+A002,D004,PENDING,0,client_messages.txt,Please send pricing for the extra revision round first.
+A003,D005,APPROVED,1,client_messages.txt,I approve one extra banner at USD 90.

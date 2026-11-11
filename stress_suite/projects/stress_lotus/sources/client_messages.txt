@@ -1,0 +1,4 @@
+Fictional agency client_messages.txt source notes
+D402 | I approve one additional strategy session at PHP 1200 each.
+D404 | I approve two additional asset packs at PHP 350 each.
+D405 | Awaiting approval for the extra asset pack.

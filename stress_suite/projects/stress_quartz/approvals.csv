@@ -1,0 +1,5 @@
+approval_id,delivery_id,status,approved_units,source_file,source_quote
+A302,D302,APPROVED,1,client_messages.txt,Please send pricing for the extra landing page first.
+A304,D304,APPROVED,2,client_messages.txt,I approve two additional brand kits at USD 300 each.
+A306,D306,APPROVED,1,client_messages.txt,I approve one additional landing page at USD 400 each.
+A307,D307,PENDING,0,client_messages.txt,Please send pricing for the extra social post first.

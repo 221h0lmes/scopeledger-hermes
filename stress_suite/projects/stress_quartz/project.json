@@ -1,0 +1,29 @@
+{
+  "project_id": "stress_quartz",
+  "client": "Quartz Creative (fictional)",
+  "currency": "USD",
+  "agreement_source": {
+    "file": "agreement.txt",
+    "quote": "Two landing pages are included. Additional landing pages: USD 400.00 each."
+  },
+  "services": [
+    {
+      "code": "landing_page",
+      "label": "Landing page",
+      "included_units": 2,
+      "extra_unit_price_minor": 40000
+    },
+    {
+      "code": "brand_kit",
+      "label": "Brand kit",
+      "included_units": 1,
+      "extra_unit_price_minor": 30000
+    },
+    {
+      "code": "social_post",
+      "label": "Social post",
+      "included_units": 4,
+      "extra_unit_price_minor": 5000
+    }
+  ]
+}

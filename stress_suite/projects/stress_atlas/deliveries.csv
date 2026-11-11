@@ -1,0 +1,19 @@
+delivery_id,service_code,units,delivered_on,source_file,source_quote
+D101,landing_page,4,2026-09-02,work_log.txt,Delivered four landing pages on September 2.
+D102,landing_page,3,2026-09-14,work_log.txt,Delivered three additional landing pages on September 14.
+D103,landing_page,1,2026-10-01,work_log.txt,Delivered one additional landing page on October 1.
+D104,email_sequence,2,2026-09-04,work_log.txt,Completed two email sequences on September 4.
+D105,email_sequence,2,2026-09-20,work_log.txt,Completed two additional email sequences on September 20.
+D106,email_sequence,1,2026-10-02,work_log.txt,Completed one additional email sequence on October 2.
+D107,email_sequence,1,2026-10-07,work_log.txt,Completed one additional email sequence on October 7.
+D108,analytics_report,1,2026-09-07,work_log.txt,Delivered one analytics report on September 7.
+D109,analytics_report,1,2026-09-25,work_log.txt,Delivered one additional analytics report on September 25.
+D110,analytics_report,1,2026-10-11,work_log.txt,Delivered one additional analytics report on October 11.
+D111,ad_creative,3,2026-09-09,work_log.txt,Delivered three ad creatives on September 9.
+D112,ad_creative,2,2026-10-12,work_log.txt,Delivered two additional ad creatives on October 12.
+D113,ad_creative,1,2026-10-14,work_log.txt,Delivered one additional ad creative on October 14.
+D114,ad_creative,1,2026-10-16,work_log.txt,Delivered one additional ad creative on October 16.
+D115,revision_round,2,2026-09-10,work_log.txt,Completed two revision rounds on September 10.
+D116,revision_round,2,2026-09-29,work_log.txt,Completed two additional revision rounds on September 29.
+D117,revision_round,1,2026-10-18,work_log.txt,Completed one additional revision round on October 18.
+D118,revision_round,1,2026-10-20,work_log.txt,Completed one additional revision round on October 20.

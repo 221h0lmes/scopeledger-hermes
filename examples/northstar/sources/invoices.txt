@@ -1,0 +1,3 @@
+Fictional invoice export
+D002 | Invoice INV-203 billed one additional landing page at USD 300.
+D005 | Invoice INV-205 billed two extra banners at USD 90 each.

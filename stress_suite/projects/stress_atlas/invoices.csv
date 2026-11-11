@@ -1,0 +1,6 @@
+invoice_line_id,delivery_id,invoiced_units,source_file,source_quote
+I102,D102,1,invoice_records.txt,Invoice INV-102 billed one additional landing page at USD 250.
+I105,D105,2,invoice_records.txt,Invoice INV-105 billed two additional email sequences at USD 180.
+I112,D112,1,invoice_records.txt,Invoice INV-112 billed one additional ad creative at USD 95.
+I114,D114,2,invoice_records.txt,Invoice INV-114 billed two additional ad creatives at USD 95.
+I116,D116,1,invoice_records.txt,Invoice INV-116 billed one additional revision round at USD 120.

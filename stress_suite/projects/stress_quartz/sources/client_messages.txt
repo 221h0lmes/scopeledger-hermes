@@ -1,0 +1,5 @@
+Fictional agency client_messages.txt source notes
+D302 | Please send pricing for the extra landing page first.
+D304 | I approve two additional brand kits at USD 300 each.
+D306 | I approve one additional landing page at USD 400 each.
+D307 | Please send pricing for the extra social post first.

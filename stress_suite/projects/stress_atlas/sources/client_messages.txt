@@ -1,0 +1,12 @@
+Fictional agency client_messages.txt source notes
+D102 | I approve three additional landing pages at USD 250 each.
+D103 | Please send pricing for the extra landing page first.
+D105 | I approve two additional email sequences at USD 180 each.
+D106 | I do not approve the additional email sequence.
+D107 | I approve one additional email sequence at USD 180 each.
+D109 | I approve one additional analytics report at USD 220 each.
+D112 | I approve one additional ad creative at USD 95 each.
+D113 | Please send pricing for the extra ad creative first.
+D114 | I approve the one extra ad creative at USD 95 each.
+D116 | I approve two additional revision rounds at USD 120 each.
+D117 | I do not approve the extra revision round.

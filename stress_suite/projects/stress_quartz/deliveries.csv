@@ -1,0 +1,8 @@
+delivery_id,service_code,units,delivered_on,source_file,source_quote
+D301,landing_page,2,2026-08-01,work_log.txt,Delivered two landing pages on August 1.
+D302,landing_page,1,2026-08-12,work_log.txt,Delivered one additional landing page on August 12.
+D303,brand_kit,1,2026-08-03,work_log.txt,Delivered one brand kit on August 3.
+D304,brand_kit,2,2026-08-14,work_log.txt,Delivered two additional brand kits on August 14.
+D305,social_post,4,2026-08-04,work_log.txt,Delivered four social posts on August 4.
+D306,social_post,1,2026-08-16,work_log.txt,Delivered one additional social post on August 16.
+D307,social_post,1,2026-08-17,work_log.txt,Delivered one additional social post on August 17.

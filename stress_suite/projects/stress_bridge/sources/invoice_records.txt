@@ -1,0 +1,2 @@
+Fictional agency invoice_records.txt source notes
+D999 | Invoice INV-999 billed one additional newsletter at USD 125.

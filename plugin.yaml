@@ -1,0 +1,9 @@
+name: scopeledger
+version: 0.3.7
+requires_hermes: ">=0.23.1"
+description: Evidence-linked, read-only scope and unbilled-work reconciliation for service agencies
+provides_tools:
+  - scopeledger_projects
+  - scopeledger_audit
+  - scopeledger_draft
+  - scopeledger_document

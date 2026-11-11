@@ -1,0 +1,23 @@
+{
+  "project_id": "stress_lotus",
+  "client": "Lotus Digital PH (fictional)",
+  "currency": "PHP",
+  "agreement_source": {
+    "file": "agreement.txt",
+    "quote": "Two strategy sessions are included. Additional strategy sessions: PHP 1200.00 each."
+  },
+  "services": [
+    {
+      "code": "strategy_session",
+      "label": "Strategy session",
+      "included_units": 2,
+      "extra_unit_price_minor": 120000
+    },
+    {
+      "code": "asset_pack",
+      "label": "Asset pack",
+      "included_units": 1,
+      "extra_unit_price_minor": 35000
+    }
+  ]
+}

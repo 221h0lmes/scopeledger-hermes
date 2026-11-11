@@ -1,0 +1,19 @@
+Fictional agency work_log.txt source notes
+D101 | Delivered four landing pages on September 2.
+D102 | Delivered three additional landing pages on September 14.
+D103 | Delivered one additional landing page on October 1.
+D104 | Completed two email sequences on September 4.
+D105 | Completed two additional email sequences on September 20.
+D106 | Completed one additional email sequence on October 2.
+D107 | Completed one additional email sequence on October 7.
+D108 | Delivered one analytics report on September 7.
+D109 | Delivered one additional analytics report on September 25.
+D110 | Delivered one additional analytics report on October 11.
+D111 | Delivered three ad creatives on September 9.
+D112 | Delivered two additional ad creatives on October 12.
+D113 | Delivered one additional ad creative on October 14.
+D114 | Delivered one additional ad creative on October 16.
+D115 | Completed two revision rounds on September 10.
+D116 | Completed two additional revision rounds on September 29.
+D117 | Completed one additional revision round on October 18.
+D118 | Completed one additional revision round on October 20.

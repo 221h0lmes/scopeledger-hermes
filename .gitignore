@@ -1,0 +1,29 @@
+# Runtime output and private credentials never belong in the public repository.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.env.*
+.scopeledger_receipts/
+*.sqlite3
+*.sqlite3-*
+.DS_Store
+*~
+**/inbox/
+**/extractions/
+**/attestations/
+**/reports/
+**/plugin-data/
+**/scopeledger-backups/
+**/oauth_tokens*/
+**/credentials*.json
+**/client_secret*.json
+**/auth.json
+
+# Keep unrelated local-agent and cloud credentials out of public staging.
+.aws/
+.codex/
+.agents/
+*.pem
+*.key

@@ -1,0 +1,6 @@
+Fictional agency invoice_records.txt source notes
+D102 | Invoice INV-102 billed one additional landing page at USD 250.
+D105 | Invoice INV-105 billed two additional email sequences at USD 180.
+D112 | Invoice INV-112 billed one additional ad creative at USD 95.
+D114 | Invoice INV-114 billed two additional ad creatives at USD 95.
+D116 | Invoice INV-116 billed one additional revision round at USD 120.

@@ -1,0 +1,6 @@
+Fictional agency work_log.txt source notes
+D201 | Delivered one newsletter on August 5.
+D202 | Delivered two additional newsletters on August 17.
+D203 | Delivered two articles on August 6.
+D204 | Delivered one additional article on August 20.
+D205 | Delivered one additional article on August 21.

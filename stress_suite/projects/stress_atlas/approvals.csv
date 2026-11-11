@@ -1,0 +1,12 @@
+approval_id,delivery_id,status,approved_units,source_file,source_quote
+A102,D102,APPROVED,3,client_messages.txt,I approve three additional landing pages at USD 250 each.
+A103,D103,PENDING,0,client_messages.txt,Please send pricing for the extra landing page first.
+A105,D105,APPROVED,2,client_messages.txt,I approve two additional email sequences at USD 180 each.
+A106,D106,REJECTED,0,client_messages.txt,I do not approve the additional email sequence.
+A107,D107,APPROVED,1,client_messages.txt,I approve one additional email sequence at USD 180 each.
+A109,D109,APPROVED,1,client_messages.txt,I approve one additional analytics report at USD 220 each.
+A112,D112,APPROVED,1,client_messages.txt,I approve one additional ad creative at USD 95 each.
+A113,D113,PENDING,0,client_messages.txt,Please send pricing for the extra ad creative first.
+A114,D114,APPROVED,1,client_messages.txt,I approve the one extra ad creative at USD 95 each.
+A116,D116,APPROVED,2,client_messages.txt,I approve two additional revision rounds at USD 120 each.
+A117,D117,REJECTED,0,client_messages.txt,I do not approve the extra revision round.
