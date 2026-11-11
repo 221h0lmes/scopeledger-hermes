@@ -89,7 +89,7 @@ Data is kept in the Hermes profile's ScopeLedger plugin-data directory, typicall
 | Local files | Reads selected project records and originals staged within its configured plugin-data directory |
 | Local outputs | Writes extracted text, provenance manifests, review attestations, SQLite audit receipts, and HTML/Markdown reports |
 | Local commands | Can invoke installed Poppler utilities for PDF text extraction |
-| Network | No network requests or telemetry initiated by the ScopeLedger plugin |
+| Network | No network calls or telemetry initiated by the ScopeLedger plugin |
 | Model provider | Tool results may be included in Hermes messages sent to the model provider selected by the user |
 | Authentication | No Google account, OAuth token, or external billing-system credentials required |
 | Automation | Does not create background schedules or send financial communications; Hermes scheduling can be configured separately by the user |
