@@ -1,20 +1,19 @@
-# 75–85 second live judging demo
+# ScopeLedger video walkthrough
 
-**Use the actual Hermes UI, not fabricated tool output.** Show current `scopeledger` tool names and a real locally generated HTML report. The demo dataset is fictional. There is no tested Drive OAuth connector or live cron execution to claim.
+An example 80-second walkthrough of the fictional Northstar Studio project using the actual Hermes Agent tools.
 
-| Seconds | Scene | Spoken line |
+| Approximate time | On-screen action | Suggested narration |
 |---|---|---|
-| 0–10 | Show fictional source agreement, deliveries, approvals and invoices | “Agencies don't only lose money when clients fail to pay. They also forget work they never invoiced.” |
-| 10–25 | In Hermes, ask to audit `demo` using `scopeledger_audit` | “ScopeLedger is a native Hermes tool that reconciles scope, delivery, approval and invoice evidence.” |
-| 25–40 | Display $300 D002 candidate, $150 D004 pending, D005 overbilling exception | “Three different decisions. Only the first is even a candidate for owner review. Nothing is automatically billable.” |
-| 40–58 | Call `scopeledger_draft`, open rendered report in Firefox | “Here's the audit packet, including exceptions and exact source hashes.” |
-| 58–73 | Show `scopeledger_document` on `northstar_invoices.pdf`, highlight pending manifest | “We also read original invoices and flag extraction uncertainty. No verified mapping, no release of financial claims.” |
-| 73–83 | Return to report, show no invoice sent | “Four native tools. Deterministic financial rules. Human sign-off. No autonomous billing.” |
+| 0–12 s | Show fictional scope, delivered work, approvals and invoices | “Extra work is easy to deliver and easy to overlook when it's time to invoice.” |
+| 12–30 s | Run `scopeledger_audit` for `demo` in Hermes | “ScopeLedger compares the agreed scope, delivered work, approvals and invoice evidence.” |
+| 30–47 s | Show D002 USD 300, D004 USD 150 pending, D005 exception | “It separates approved-but-uninvoiced candidates from work awaiting approval and invoice discrepancies.” |
+| 47–67 s | Run `scopeledger_draft` and open the generated HTML report | “The result is a local, evidence-linked report for the project owner.” |
+| 67–80 s | Show the report summary and plugin tools | “Four native Hermes tools. Deterministic calculations. Every billing decision stays with a human.” |
 
-Suggested single Hermes prompt for recording:
+Suggested Hermes message:
 
-> Use only ScopeLedger tools. Audit the fictional `demo` project, report approved-but-uninvoiced and pending-approval amounts, explain the overbilling exception, then create an owner-review draft. Do not create an invoice or contact clients. Show report paths.
+> Use ScopeLedger to audit the fictional `demo` project. Show approved-but-uninvoiced candidates, work awaiting approval, and invoice exceptions. Create a local owner-review draft. Do not send invoices, contact clients, or change evidence.
 
-For the PDF scene, stage the synthetic originals using `bash scripts/stage_synthetic_documents.sh`, then in a **fresh session** ask `scopeledger_document` to inspect `northstar_invoices.pdf` under project `northstar` with role `invoices`. Be careful: the `demo` project and the `northstar` staged document-intake project have different readiness requirements.
+The fictional `demo` audit and the separate `northstar` original-document intake have different certification requirements. A document inspection scene can be added after staging the bundled sample originals and verifying their extracted content.
 
-In Firefox on sandboxed Ubuntu, copy the output HTML into `~/Documents` instead of relaxing permissions on the hidden Hermes profile folder. Keep the final X upload below 90 seconds.
+Use actual screen recordings and tool outputs. Keep the final video under 90 seconds, and avoid showing unrelated local files, credentials, or client information.
