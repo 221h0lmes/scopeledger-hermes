@@ -176,7 +176,9 @@ def _pdf(data: bytes, path: Path):
 def _pdf_snapshot(data: bytes, path: Path):
     def invoke(args):
         try:
-            p = subprocess.run(args, capture_output=True, timeout=25, check=True)
+            safe_env = {key: os.environ[key] for key in ("PATH", "HOME", "TMPDIR") if key in os.environ}
+            safe_env["LANG"] = "C.UTF-8"
+            p = subprocess.run(args, capture_output=True, timeout=25, check=True, env=safe_env)
         except (FileNotFoundError, subprocess.CalledProcessError, subprocess.TimeoutExpired) as e:
             raise IntakeError('Poppler PDF parser unavailable or failed: ' + type(e).__name__) from e
         return p.stdout.decode('utf-8', 'replace')
